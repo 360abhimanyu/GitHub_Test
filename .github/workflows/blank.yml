@@ -40,4 +40,3 @@ jobs:
           echo what about build tools?
           mvn --version
           gradel --version
-          ant -version
