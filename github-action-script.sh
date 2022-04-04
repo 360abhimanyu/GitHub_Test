@@ -25,4 +25,4 @@ whoami
 echo 9. How is the disc laid out?
 df
 echo 10. What enviroment variables are avaiable?
-em
+env
