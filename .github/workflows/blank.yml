@@ -33,10 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo what is in this directory?
-          ls -a
-          echo
-          echo is java installed?
-          java --version
-          echo what about build tools?
-          mvn --version
-          gradel --version
+          echo wht is your name?
+          echo wht is your name?
