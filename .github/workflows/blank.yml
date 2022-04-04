@@ -33,5 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo nothig to print
-          echo --version
-          echo 
+          echo here is what is the folder
+          ls -a
