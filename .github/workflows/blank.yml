@@ -33,4 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           print ("hello India")
-          Print ("hello Abhimanyu")
+          print ("hello Abhimanyu")
