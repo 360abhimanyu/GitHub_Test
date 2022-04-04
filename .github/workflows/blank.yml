@@ -36,7 +36,7 @@ jobs:
           ls -a
           echo
           echo 2. Is Java installed?
-          Java --version
+          java --version
           echo
           echo 3. Is git installed?
           git --version
