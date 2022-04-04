@@ -40,4 +40,4 @@ jobs:
           echo
           echo 3. is git installed?
           git --version
-          
+          echo
